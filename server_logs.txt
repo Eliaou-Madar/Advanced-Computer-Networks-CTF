@@ -1,0 +1,3 @@
+[2024-07-24 12:34:56] INFO: User admin accessed /admin
+[2024-07-24 12:35:10] ERROR: SQL error in query: SELECT * FROM users WHERE username = 'admin' -- ' AND password = 'password'
+...
